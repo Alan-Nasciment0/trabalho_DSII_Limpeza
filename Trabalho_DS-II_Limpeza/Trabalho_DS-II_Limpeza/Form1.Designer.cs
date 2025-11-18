@@ -1,6 +1,6 @@
 ﻿namespace Trabalho_DS_II_Limpeza
 {
-    partial class Form1
+    partial class frmCadastro
     {
         /// <summary>
         /// Variável de designer necessária.
@@ -86,7 +86,7 @@
             this.textBox2.Size = new System.Drawing.Size(100, 20);
             this.textBox2.TabIndex = 5;
             // 
-            // Form1
+            // frmCadastro
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -97,8 +97,8 @@
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
-            this.Text = "             ";
+            this.Name = "frmCadastro";
+            this.Text = "Cadastro";
             this.ResumeLayout(false);
             this.PerformLayout();
 
