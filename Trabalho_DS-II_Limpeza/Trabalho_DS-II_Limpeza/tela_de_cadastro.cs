@@ -26,5 +26,10 @@ namespace Trabalho_DS_II_Limpeza
         {
 
         }
+
+        private void lblcadastro_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -41,19 +41,22 @@
             // lblcadastro
             // 
             this.lblcadastro.AutoSize = true;
-            this.lblcadastro.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblcadastro.Location = new System.Drawing.Point(105, 30);
+            this.lblcadastro.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblcadastro.ForeColor = System.Drawing.SystemColors.Control;
+            this.lblcadastro.Location = new System.Drawing.Point(93, 24);
             this.lblcadastro.Name = "lblcadastro";
-            this.lblcadastro.Size = new System.Drawing.Size(163, 25);
+            this.lblcadastro.Size = new System.Drawing.Size(179, 25);
             this.lblcadastro.TabIndex = 0;
             this.lblcadastro.Text = "Tela de Cadastro";
             this.lblcadastro.TextAlign = System.Drawing.ContentAlignment.TopRight;
+            this.lblcadastro.Click += new System.EventHandler(this.lblcadastro_Click);
             // 
             // lblendereco
             // 
             this.lblendereco.AutoSize = true;
             this.lblendereco.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblendereco.Location = new System.Drawing.Point(37, 191);
+            this.lblendereco.ForeColor = System.Drawing.SystemColors.Control;
+            this.lblendereco.Location = new System.Drawing.Point(37, 185);
             this.lblendereco.Name = "lblendereco";
             this.lblendereco.Size = new System.Drawing.Size(78, 20);
             this.lblendereco.TabIndex = 1;
@@ -63,6 +66,7 @@
             // 
             this.lblnome.AutoSize = true;
             this.lblnome.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblnome.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.lblnome.Location = new System.Drawing.Point(37, 80);
             this.lblnome.Name = "lblnome";
             this.lblnome.Size = new System.Drawing.Size(51, 20);
@@ -72,7 +76,7 @@
             // txtendereco
             // 
             this.txtendereco.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtendereco.Location = new System.Drawing.Point(57, 221);
+            this.txtendereco.Location = new System.Drawing.Point(57, 226);
             this.txtendereco.Name = "txtendereco";
             this.txtendereco.Size = new System.Drawing.Size(165, 30);
             this.txtendereco.TabIndex = 3;
@@ -88,9 +92,9 @@
             // 
             // btncadastro
             // 
-            this.btncadastro.Location = new System.Drawing.Point(126, 371);
+            this.btncadastro.Location = new System.Drawing.Point(117, 405);
             this.btncadastro.Name = "btncadastro";
-            this.btncadastro.Size = new System.Drawing.Size(155, 63);
+            this.btncadastro.Size = new System.Drawing.Size(155, 29);
             this.btncadastro.TabIndex = 5;
             this.btncadastro.Text = "Cadastrar";
             this.btncadastro.UseVisualStyleBackColor = true;
@@ -98,7 +102,7 @@
             // textBox1
             // 
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(57, 303);
+            this.textBox1.Location = new System.Drawing.Point(57, 310);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(165, 30);
             this.textBox1.TabIndex = 6;
@@ -107,6 +111,7 @@
             // 
             this.lblcelular.AutoSize = true;
             this.lblcelular.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblcelular.ForeColor = System.Drawing.SystemColors.Control;
             this.lblcelular.Location = new System.Drawing.Point(38, 271);
             this.lblcelular.Name = "lblcelular";
             this.lblcelular.Size = new System.Drawing.Size(58, 20);
@@ -117,6 +122,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.HotTrack;
             this.ClientSize = new System.Drawing.Size(379, 446);
             this.Controls.Add(this.lblcelular);
             this.Controls.Add(this.textBox1);
@@ -127,6 +133,7 @@
             this.Controls.Add(this.lblendereco);
             this.Controls.Add(this.lblcadastro);
             this.Name = "tela_de_cadastro";
+            this.TransparencyKey = System.Drawing.Color.Transparent;
             this.Load += new System.EventHandler(this.tela_de_cadastro_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
