@@ -1,0 +1,10 @@
+C:\xampp\htdocs\Arthur\trabalho_DSII_Limpeza\Trabalho_DS-II_Limpeza\Trabalho_DS-II_Limpeza\bin\Debug\Trabalho_DS-II_Limpeza.exe.config
+C:\xampp\htdocs\Arthur\trabalho_DSII_Limpeza\Trabalho_DS-II_Limpeza\Trabalho_DS-II_Limpeza\bin\Debug\Trabalho_DS-II_Limpeza.exe
+C:\xampp\htdocs\Arthur\trabalho_DSII_Limpeza\Trabalho_DS-II_Limpeza\Trabalho_DS-II_Limpeza\bin\Debug\Trabalho_DS-II_Limpeza.pdb
+C:\xampp\htdocs\Arthur\trabalho_DSII_Limpeza\Trabalho_DS-II_Limpeza\Trabalho_DS-II_Limpeza\obj\Debug\Trabalho_DS-II_Limpeza.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Arthur\trabalho_DSII_Limpeza\Trabalho_DS-II_Limpeza\Trabalho_DS-II_Limpeza\obj\Debug\Trabalho_DS_II_Limpeza.Form1.resources
+C:\xampp\htdocs\Arthur\trabalho_DSII_Limpeza\Trabalho_DS-II_Limpeza\Trabalho_DS-II_Limpeza\obj\Debug\Trabalho_DS_II_Limpeza.Properties.Resources.resources
+C:\xampp\htdocs\Arthur\trabalho_DSII_Limpeza\Trabalho_DS-II_Limpeza\Trabalho_DS-II_Limpeza\obj\Debug\Trabalho_DS-II_Limpeza.csproj.GenerateResource.cache
+C:\xampp\htdocs\Arthur\trabalho_DSII_Limpeza\Trabalho_DS-II_Limpeza\Trabalho_DS-II_Limpeza\obj\Debug\Trabalho_DS-II_Limpeza.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Arthur\trabalho_DSII_Limpeza\Trabalho_DS-II_Limpeza\Trabalho_DS-II_Limpeza\obj\Debug\Trabalho_DS-II_Limpeza.exe
+C:\xampp\htdocs\Arthur\trabalho_DSII_Limpeza\Trabalho_DS-II_Limpeza\Trabalho_DS-II_Limpeza\obj\Debug\Trabalho_DS-II_Limpeza.pdb
